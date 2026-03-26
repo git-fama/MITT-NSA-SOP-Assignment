@@ -13,7 +13,7 @@
 | Version | Date | Name | Job |
 | :--- | :--- | :--- | :--- |
 | 1.0 | 2026-03-26 | Dongjun Li | Student / Author |
-| 1.1 | 2026-03-27 | Jibing Liang | Instructor |
+| 1.1 | 2026-03-26 | Jibing Liang | Instructor |
 
 ---
 
